@@ -1,8 +1,9 @@
 {
-  "name": "studentapp1",
-  "private": true,
-  "version": "0.0.0",
-  "type": "module",
+  "name": "student-form-library",
+  "main": "dist/student-form-library.cjs.js",
+  "module": "dist/student-form-library.es.js",
+  "version": "1.0.0",
+  "license": "MIT",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
