@@ -6,6 +6,7 @@ function StudentForm() {
     <>
       <div class="container ">
         <form action="">
+        <input type="text" placeholder="Student Id" name="id" required />
 
           <input type="text" placeholder="Name" name="name" required />
           <input type="email" placeholder="Email" name="email" required />
